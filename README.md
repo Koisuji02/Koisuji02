@@ -105,9 +105,9 @@
   <img width="12" />
   <img src="https://assets.exercism.io/tracks/mips-bordered-turquoise.png" height="40" alt="assembly mips"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://brandlogos.net/wp-content/uploads/2020/09/arm-logo.png" height="40" alt="assembly ARM"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://assets.exercism.io/tracks/x86-64-assembly-bordered-turquoise.png" height="40" alt="mips 64"  />
 </div>
 
 ###
