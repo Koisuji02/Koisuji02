@@ -105,6 +105,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
   <img src="https://assets.exercism.io/tracks/mips-bordered-turquoise.png" height="40" alt="assembly mips"  />
   <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2020/09/arm-logo.png" height="40" alt="assembly ARM"  />
