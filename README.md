@@ -95,7 +95,7 @@
   <img width="12" />
   <img src="https://assets.exercism.io/tracks/x86-64-assembly-bordered-turquoise.png" height="40" alt="mips 64"  />
     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/archlinux-original.svg" height="40" alt="archlinux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"  />
 </div>
 
 ###
