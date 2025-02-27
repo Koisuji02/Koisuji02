@@ -98,6 +98,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="40" alt="json logo"  />
+  <img width="12" />
+  <img src="https://www.dockhunt.com/_next/image?url=https:%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F907f145c-ed79-4114-b73e-fd8ef4ccab56&w=384&q=75" height="40" alt="gdscript logo"  />
 </div>
 
 ###
