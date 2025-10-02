@@ -109,7 +109,7 @@
   <img width="12" />
   <img src="https://jiripolasek.com/assets/slices/slice9.png" height="40" alt="uml logo"  />
   <img width="12" />
-  <img src="https://jiripolasek.com/assets/slices/slice9.png" height="40" alt="uml logo"  />
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/Gimp-logo.png" height="40" alt="GIMP logo"  />
   <img width="12" />
   <img src="https://jiripolasek.com/assets/slices/slice9.png" height="40" alt="uml logo"  />
 </div>
