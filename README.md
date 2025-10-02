@@ -89,7 +89,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://assets.exercism.io/tracks/mips-bordered-turquoise.png" height="40" alt="assembly mips"  />
+  <img src="https://tse2.mm.bing.net/th/id/OIP.rrKx7vZSRlu1wZapEcZYXAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="assembly mips"  />
   <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2020/09/arm-logo.png" height="40" alt="assembly ARM"  />
   <img width="12" />
