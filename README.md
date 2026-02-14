@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm a Computer Engineering student at the Polytechnic University of Turin, currently diving deeper into cloud technologies and distributed systems while finishing my Master's Degree.\nWhen I'm not coding, you'll find me lifting weights, playing video games or binge-watching anime and series.\nI'm also a Godot game dev and a Linux enthusiast, always tinkering with new tech and projects.
+Hey there! 👋 I'm a Computer Engineering student at the Polytechnic University of Turin, currently diving deeper into cloud technologies and distributed systems while finishing my Master's Degree. When I'm not coding, you'll find me lifting weights, playing video games or binge-watching anime and series. I'm also a Godot game dev and a Linux enthusiast, always tinkering with new tech and projects.
 Love building cool stuff and learning along the way. Feel free to check out my repositories! 🚀
 
 
